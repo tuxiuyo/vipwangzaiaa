@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tuxiuyo.github.io/vipwangzaiaa/sitemap.xml
